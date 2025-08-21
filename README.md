@@ -115,8 +115,3 @@ The main logic is in `MainActivity.kt`:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your-username/app](https://github.com/your-username/app)
