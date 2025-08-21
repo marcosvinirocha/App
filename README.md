@@ -13,13 +13,6 @@ This is a basic Android app that shows a button which, when clicked, displays a 
 - Dynamic text display
 - Edge-to-edge layout support
 
-## Screenshots
-
-| Initial Screen | After Button Click |
-| -------------- | ------------------ |
-| ![Initial Screen](screenshots/initial_screen.png) | ![After Click](screenshots/after_click.png) |
-
-*Note: Screenshots are placeholders and should be replaced with actual app screenshots.*
 
 ## Getting Started
 
@@ -34,7 +27,7 @@ This is a basic Android app that shows a button which, when clicked, displays a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/app.git
+   git clone https://github.com/marcosvinirocha/app.git
    ```
 
 2. Open the project in Android Studio
